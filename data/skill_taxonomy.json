@@ -1,0 +1,77 @@
+{
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "R",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "Angular",
+      "Vue",
+      "Django",
+      "Flask",
+      "Spring Boot",
+      "Node.js",
+      "FastAPI"
+    ],
+    "ml_ai": [
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "scikit-learn",
+      "NLTK",
+      "spaCy",
+      "Hugging Face Transformers"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "SQLite"
+    ],
+    "devops_tools": [
+      "Git",
+      "GitHub Actions",
+      "Jenkins",
+      "CI/CD",
+      "Ansible",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  "soft_skills": [
+    "Leadership",
+    "Communication",
+    "Problem Solving",
+    "Adaptability",
+    "Teamwork",
+    "Critical Thinking",
+    "Time Management",
+    "Collaboration",
+    "Mentoring"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Professional Cloud Architect",
+    "Microsoft Azure Fundamentals",
+    "Certified Kubernetes Administrator",
+    "PMP",
+    "Scrum Master"
+  ]
+}
