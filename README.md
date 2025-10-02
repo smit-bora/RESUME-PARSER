@@ -13,6 +13,7 @@ Run:
 1. Create and activate environment (only once):(just open cmd and run this first step in the base folder itself)(provided you have conda installed and added to the path as env variable)
 
   conda create -n resume-parser python=3.11
+  
   conda activate resume-parser
 
 2. then navigate to the backend folder and run pip install -r requirements.txt
