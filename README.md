@@ -1,4 +1,4 @@
-This is Resume parser using bert, very initial stage.
+This is Resume parser using bert, very initial stage. Only parsing resume part exists here. 
 
 Clone the repo.
 
@@ -19,3 +19,5 @@ Run:
 2. then navigate to the backend folder and run pip install -r requirements.txt
 3. python run.py
 Backend will start on: http://127.0.0.1:8000
+
+upload your own resume. It is not perfect and gets half the things correctly and the other half is incorrect.
